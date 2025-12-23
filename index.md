@@ -28,4 +28,4 @@ I have worked on machine learning problems across computational biology, physiol
 
 ## Links
 - **GitHub:** https://github.com/Hirali04
-- **Curriculum Vitae:** 
+- **Curriculum Vitae:** https://github.com/Hirali04/hiralisangani.github.io/blob/main/Hirali%20Sangani%20CV.pdf
