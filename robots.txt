@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://hirali04.github.io/sitemap.xml
+
+# Block access to git files
+Disallow: /.git/
